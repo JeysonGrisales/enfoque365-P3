@@ -1,4 +1,4 @@
-const palabras = ["GATO", "PERRO", "CASA", "ARBOL"];
+const palabras = ["BESAME", "BLURADIO", "SEMANA", "TROPICANA", "WINSPORT", "LACRONICA", "PULZO", "RCN", "ELTIEMPO", "FUTBOLRED"];
 const letras = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
 
 let palabrasEncontradas = [];

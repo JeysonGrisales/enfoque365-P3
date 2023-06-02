@@ -164,6 +164,7 @@ header{
 .contenido{
     width: 50%;
     height: 130%;
+    margin-top: 2%;
 }
 
 #sopa-de-letras {
